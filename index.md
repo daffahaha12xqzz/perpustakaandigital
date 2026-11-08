@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [STUDY ON THE HISTORY AND ARCHITECTURE](ebook/STUDY ON THE HISTORY AND ARCHITECTURE.pdf). - DaffaF, dkk (2026)
+1. [STUDY_ON_THE_HISTORY_AND_ARCHITECTURE](ebook/STUDY ON THE HISTORY AND ARCHITECTURE.pdf). - DaffaF, dkk (2026)
 2. [Profesionalisme Pustakawan di Era Digital](ebook/Profesionalisme Pustakawan di Era Digital.pdf). - DaffaF, dkk (2026)
 3. [Print Kartu UAS S4](ebook/ Print Kartu UAS S4.pdf). - DaffaF, dkk (2026)
 4. [MetaAnalysisinPublicRelations](ebook/MetaAnalysisinPublicRelations.pdf). - DaffaF, dkk (2026)
