@@ -12,5 +12,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [animal farm](ebooks/animal-farm.pdf) -  DaffaF, dkk (2026)
 9. [nineteen eighty four](ebook/nineteen-eighty-four.pdf). - DaffaF, dkk (2026)
 10. [brave new world](ebook/brave-new-world.pdf).-DaffaF, dkk (2026)
-11. [Ringkasan UGC Daffa Firman Wijaya](ebook/Ringkasan_UGC_Daffa_Firman_Wijaya.pdf). - DaffaF, dkk (2026)
-*Powered by GitHub Pages*
+11. [Ringkasan UGC Daffa Firman Wijaya](ebook/Ringkasan_UGC_Daffa_Firman_Wijaya.pdf). - DaffaF, dkk (2026) *Powered by GitHub Pages*
