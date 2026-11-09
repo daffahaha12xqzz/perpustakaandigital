@@ -9,8 +9,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Little Women](ebook/little-women-louisa-may-alcott.pdf) - DaffaF, dkk (2026)
 6. [Frankenstein](ebook/frankenstein-mary-shelley.pdf) - DaffaF, dkk (2026)
 7. [Dracula](ebook/dracula-bram-stoker.pdf) -  DaffaF, dkk (2026)
-8. [animal farm](ebooks/animal-farm-george-orwell.pdf) -  DaffaF, dkk (2026)
-9. [9.-Nineteen Eighty Four](ebook/Nineteen-Eighty-Four-Author-George-Orwell.pdf). - DaffaF, dkk (2026)
+8. [Animal Farm](ebooks/animal-farm-george-orwell.pdf) -  DaffaF, dkk (2026)
+9. [Nineteen Eighty Four](ebook/Nineteen-Eighty-Four-Author-George-Orwell.pdf). - DaffaF, dkk (2026)
 10. [Brave New World](ebook/Brave_New_World.pdf)- DaffaF, dkk (2026)
 11. [Ringkasan UGC Daffa Firman Wijaya.pdf](ebook/Ringkasan_UGC_Daffa_Firman_Wijaya.pdf) - DaffaF, dkk (2026)
     *Powered by GitHub Pages*
