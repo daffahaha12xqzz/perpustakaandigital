@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [dracula](ebook/dracula.pdf) -  DaffaF, dkk (2026)
 8. [animal farm](ebooks/animal-farm.pdf) -  DaffaF, dkk (2026)
 9. [9.-Nineteen Eighty Four](ebook/Nineteen-Eighty-Four.pdf). - DaffaF, dkk (2026)
-10. [brave new world](ebook/brave-new-world.pdf)- DaffaF, dkk (2026)
+10. [Brave_New_World](ebook/Brave_New_World.pdf)- DaffaF, dkk (2026)
 11. [Ringkasan UGC Daffa Firman Wijaya.pdf](ebook/Ringkasan_UGC_Daffa_Firman_Wijaya.pdf) - DaffaF, dkk (2026)
 
 
