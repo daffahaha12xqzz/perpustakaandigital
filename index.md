@@ -2,8 +2,8 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [the odyssey homer](ebook/the-odyssey-homer.pdf) - DaffaF, dkk (2026)
-2. [the-great-gatsby](ebook/the-great-gatsby-f-scott-fitzgerald.pdf) - DaffaF, dkk (2026)
+1. [The Odyssey Homer](ebook/the-odyssey-homer.pdf) - DaffaF, dkk (2026)
+2. [The Great Gatsby](ebook/the-great-gatsby-f-scott-fitzgerald.pdf) - DaffaF, dkk (2026)
 3. [romeo and juliet](ebook/romeo-and-juliet-william-shakespeare.pdf) - DaffaF, dkk (2026)
 4. [pride and prejudice](ebook/pride-and-prejudice-jane-austen.pdf) - DaffaF, dkk (2026)
 5. [little women](ebook/little-women-louisa-may-alcott.pdf) - DaffaF, dkk (2026)
