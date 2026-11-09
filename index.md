@@ -14,4 +14,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Brave New World](ebook/brave-new-world-aldous-huxley.pdf) - DaffaF, dkk (2026)
 11. [Ringkasan UGC Daffa Firman Wijaya.pdf](ebook/Ringkasan%20UGC%20Daffa%20Firman%20Wijaya.pdf) - DaffaF, dkk (2026)
 
- *Powered by GitHub Pages*
+*Powered by GitHub Pages*
