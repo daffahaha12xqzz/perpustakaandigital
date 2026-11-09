@@ -4,7 +4,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [the odyssey homer](ebook/the-odyssey-homer.pdf) - DaffaF, dkk (2026)
 2. [the-great-gatsby](ebook/the-great-gatsby-f-scott-fitzgerald.pdf) - DaffaF, dkk (2026)
-3. [romeo and juliet](ebook/romeo-and-juliet.pdf) - DaffaF, dkk (2026)
+3. [romeo and juliet](ebook/romeo-and-juliet-william-shakespeare.pdf) - DaffaF, dkk (2026)
 4. [pride and prejudice](ebook/pride-and-preduice.pdf) - DaffaF, dkk (2026)
 5. [little women](ebook/little-women.pdf) - DaffaF, dkk (2026)
 6. [frankenstein](ebook/frankenstein.pdf) - DaffaF, dkk (2026)
