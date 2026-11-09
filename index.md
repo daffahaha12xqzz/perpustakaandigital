@@ -11,6 +11,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Dracula](ebook/dracula-bram-stoker.pdf) -  DaffaF, dkk (2026)
 8. [Animal Farm](ebook/animal-farm-george-orwell.pdf) -  DaffaF, dkk (2026)
 9. [Nineteen Eighty Four](ebook/9.-Nineteen-Eighty-Four-Author-George-Orwell.pdf) - DaffaF, dkk (2026)
-10. [Brave New World](ebook/Brave_New_World.pdf) - DaffaF, dkk (2026)
+10. [Brave New World](ebook/brave-new-world-aldous-huxley.pdf) - DaffaF, dkk (2026)
 11. [Ringkasan UGC Daffa Firman Wijaya.pdf](ebook/Ringkasan_UGC_Daffa_Firman_Wijaya.pdf) - DaffaF, dkk (2026)
     *Powered by GitHub Pages*
